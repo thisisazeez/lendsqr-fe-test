@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap");
+// @font-face {
+//   font-family: "avenir";
+//   src: url("./assets/fonts/effra_sv/Effra_Std_Lt.ttf") format("ttf");
+//   // url("./avenir_ff/AvenirLTStd-Book.otf") format("otf"),
+//   // url("./avenir_ff/AvenirLTStd-Roman.otf") format("otf");
+// }
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Montserrat", sans-serif;
+  // font-family: "avenir";
+  background: rgba(229, 229, 229, 0.1);
+}
+::-webkit-scrollbar {
+  width: 0;
+}
+::-webkit-calendar-picker-indicator {
+  opacity: 0.4;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: #545f7d;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

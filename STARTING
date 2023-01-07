@@ -1,0 +1,109 @@
+ROUND 1
+
+
+
+Login screen
+
+
+Create structure, fields, and button
+Click on the login button
+Call API and send username & password
+Get the return value - pass or fail
+If pass then redirect to the dashboard
+If fail, then show a message
+Forget password → do not work on it
+
+
+Dashboard screen
+
+
+Create structure as part of the page template
+Top bar
+Left bar
+Summary bar
+User list grid
+Create a user list grid → without short, search or paging
+Users summary bar
+
+
+User detail screen
+
+
+Structure from template
+User detail heading – blacklist & activate
+User summary bar
+User details section
+
+
+
+ROUND 2
+
+
+
+
+
+
+
+
+
+Plan
+
+
+
+
+Jan 6
+
+
+Fill in more items in the above plan - what and how
+
+
+
+
+Jan 7
+
+
+Finish login screen
+
+
+Create a page template with the following items. Template
+
+Top bar
+Left bar
+Center content section
+
+Create a dashboard page that uses this new template
+
+
+Jan 8
+
+
+Dashboard screen
+
+
+Add the following items to the page.
+Summary bar
+User list grid
+Create a user list grid → without short, search or paging
+Users summary bar
+
+User detail screen
+
+
+Jan 9
+
+
+Round 2
+
+
+Jan 10
+
+
+Round 2
+
+
+11 full testing, finishing touch
+
+
+
+
+12 Submit project
