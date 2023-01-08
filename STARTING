@@ -6,11 +6,6 @@ Login screen
 
 
 Create structure, fields, and button
-Click on the login button
-Call API and send username & password
-Get the return value - pass or fail
-If pass then redirect to the dashboard
-If fail, then show a message
 Forget password → do not work on it
 
 
